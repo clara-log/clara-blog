@@ -14,10 +14,6 @@ module.exports = {
         url: `https://github.com/clara-log`,
       },
       {
-        name: `instagram`,
-        url: `https://instagram.com/jihyunclara`,
-      },
-      {
         name: `linkedin`,
         url: `https://www.linkedin.com/in/jihyun-yun/`,
       },
