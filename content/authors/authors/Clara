@@ -1,0 +1,9 @@
+name: 클라라
+bio: |
+  스타트업에서 고군분투하는 Growth Marketer, Product Manager.
+  성장을 즐기는 성장덕후, 다양한 일들을 하는 것을 좋아해서 많은 부캐 양산 중.
+avatar: ./avatars/dennis-brotzky.jpg
+social:
+  - url: clarayun.space
+  - url: https://www.linkedin.com/in/jihyun-yun/
+featured: true
