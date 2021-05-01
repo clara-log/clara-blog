@@ -3,9 +3,9 @@ module.exports = {
     title: `Clara Blog`,
     name: `Clara Blog`,
     siteUrl: `https://clarayun.space`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    description: `클라라의 생각과 경험을 기록합니다.`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `클라라의 블로그입니다`,
       maxWidth: 652,
     },
     social: [
@@ -19,7 +19,7 @@ module.exports = {
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
+        url: `https://www.linkedin.com/in/jihyun-yun/`,
       },
     ],
   },
@@ -40,8 +40,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `Clara Blog`,
+        short_name: `Clara`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
